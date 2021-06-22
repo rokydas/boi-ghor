@@ -1,0 +1,20 @@
+.Modal {
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  right: auto;
+  width: 500px;
+  bottom: auto;
+  background-color: papayawhip;
+}
+
+.Overlay {
+  position: fixed;
+  width: 500px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  /* background-color: rebeccapurple; */
+}
